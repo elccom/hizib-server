@@ -34,6 +34,18 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+# linux
+#
+#
+
+.cache
+.logal
+.bash_history
+.bash_logout
+.bashrc
+.lesshst
+.viminfo
+
 # End of https://www.toptal.com/developers/gitignore/api/macos
 
 www
